@@ -1,0 +1,17 @@
+/*** 
+ * cake button
+ * idiot button
+ * wait 10 seconds button
+ * split button
+ * reset time using typed values
+ * decreases time
+ * made runner look nicer
+ * renamed stuff to be look nicer
+ * texts on first menu
+ * makes only closing the main panel close the rest 
+ * make the buttons have empty borders and but them in a good places
+ * made image as backround for clock maker
+ * error pop ups
+ 
+   
+ */
